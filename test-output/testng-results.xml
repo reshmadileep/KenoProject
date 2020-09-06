@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58908" started-at="2020-09-06T02:02:02Z" finished-at="2020-09-06T02:03:01Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="58908" started-at="2020-09-06T02:02:02Z" finished-at="2020-09-06T02:03:01Z">
+      <class name="tests.LaunchHomeAndDashboardTest">
+        <test-method status="PASS" signature="launchHomePageAndDashboard()[pri:0, instance:tests.LaunchHomeAndDashboardTest@c038203]" name="launchHomePageAndDashboard" duration-ms="21559" started-at="2020-09-06T02:02:02Z" finished-at="2020-09-06T02:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchHomePageAndDashboard -->
+      </class> <!-- tests.LaunchHomeAndDashboardTest -->
+      <class name="tests.CheckGamesTest">
+        <test-method status="PASS" signature="checkGamesDropdown()[pri:1, instance:tests.CheckGamesTest@8bd1b6a]" name="checkGamesDropdown" duration-ms="4178" started-at="2020-09-06T02:02:24Z" finished-at="2020-09-06T02:02:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkGamesDropdown -->
+      </class> <!-- tests.CheckGamesTest -->
+      <class name="tests.CheckHowToWinTest">
+        <test-method status="PASS" signature="checkHowToWinPage()[pri:3, instance:tests.CheckHowToWinTest@cb5822]" name="checkHowToWinPage" duration-ms="16183" started-at="2020-09-06T02:02:39Z" finished-at="2020-09-06T02:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHowToWinPage -->
+      </class> <!-- tests.CheckHowToWinTest -->
+      <class name="tests.CheckResultsPageTest">
+        <test-method status="PASS" signature="checkResultsPageLoad()[pri:2, instance:tests.CheckResultsPageTest@18be83e4]" name="checkResultsPageLoad" duration-ms="11369" started-at="2020-09-06T02:02:28Z" finished-at="2020-09-06T02:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResultsPageLoad -->
+      </class> <!-- tests.CheckResultsPageTest -->
+      <class name="tests.WatchLiveDrawTest">
+        <test-method status="PASS" signature="checkWatchLiveDraw()[pri:4, instance:tests.WatchLiveDrawTest@4b9e13df]" name="checkWatchLiveDraw" duration-ms="5582" started-at="2020-09-06T02:02:56Z" finished-at="2020-09-06T02:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWatchLiveDraw -->
+      </class> <!-- tests.WatchLiveDrawTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
