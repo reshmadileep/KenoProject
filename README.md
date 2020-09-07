@@ -22,7 +22,8 @@
 ## Execution Instructions
    * Proceed to testng.xml and run as TestNG suite after placing all the required tests in it
    *The results can be seen in console and also Test-output folder
+   *Please find the results screenshots in Images folder
    
-   
+  
    
    
