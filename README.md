@@ -11,13 +11,15 @@
   
 ## Requirements/Technologies/Set Up
    
-   *Eclipse IDE
-   * Java
-   * Maven
-   *Selenium dependency-placed in pom.xml
-   *TestNG dpendency-placed in pom.xml
-   *Maven compiler and Maven surefire plugin-placed in pom.xml 
-   *drivers(used chrome driver to execute in chrome browser)-placed in src/test/resources
+   # Eclipse IDE
+   # Java
+   # Maven
+   # Selenium dependency-placed in pom.xml
+   # TestNG dpendency-placed in pom.xml
+   # Maven compiler and Maven surefire plugin-placed in pom.xml 
+   # drivers(used chrome driver to execute in chrome browser)-placed in src/test/resources
+   # The date field in "Check Results" page has to be changed to current date (currently needs to be hard coded -this can be enhanced to include current date using code) 
+   
    
 ## Execution Instructions
    * Proceed to testng.xml and run as TestNG suite after placing all the required tests in it
